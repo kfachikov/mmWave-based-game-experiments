@@ -1,0 +1,2 @@
+Start Frame Number - 50
+End Frame Number - 580
