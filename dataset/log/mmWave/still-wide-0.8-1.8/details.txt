@@ -1,2 +1,3 @@
+Experiment Type - 2
 Start Frame Number - 100
 End Frame Number - 380

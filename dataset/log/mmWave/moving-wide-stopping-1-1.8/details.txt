@@ -1,2 +1,3 @@
+Experiment Type - 3
 Start Frame Number - 70
 End Frame Number - 670
